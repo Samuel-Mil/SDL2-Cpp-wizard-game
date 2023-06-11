@@ -1,2 +1,3 @@
 bin/release/*.out
 bin/debug/*.out
+*.o
